@@ -15,6 +15,7 @@ public class HelloWorldGUIApp{
 
                 frame.pack();
                 frame.setVisible(true);
+                
             }
         });
     }

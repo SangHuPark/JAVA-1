@@ -4,7 +4,6 @@ public class ArrayApp {
 
 	public static void main(String[] args) {
 		
-		// sanghu, egoing, jinhuck
 //		String users = "sanghu, egoing, jinhuck";
 		String[] users = new String[3]; // 배열형 변수 선언 후 크기 지정
 		users[0] = "sanghu";
